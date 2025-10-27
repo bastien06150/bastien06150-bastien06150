@@ -1,6 +1,6 @@
 #  Bonjour, je suis Maingaud Bastien !
 
- Développeur Python passionné par les algorithmes, la data et la finance.
+ Développeur Python passionné par les algorithmes et la data. J’aime concevoir, optimiser et améliorer mes programmes en cherchant toujours des solutions efficaces et élégantes pour résoudre les problèmes techniques.
 
 Mon objectif : concevoir des solutions **claires, performantes et documentées** pour résoudre des problèmes réels.
 Ce portfolio regroupe mes projets réalisés dans le cadre du parcours OpenClassrooms et en autonomie.
