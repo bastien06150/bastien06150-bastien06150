@@ -31,7 +31,7 @@ Ce portfolio regroupe mes projets réalisés dans le cadre du parcours OpenClass
     
 ---
 
-## 🌍 4. Communauté & Partage
+##  4. Communauté & Partage
 
 Voici quelques ressources que je consulte régulièrement pour ma veille et mon inspiration :
 
@@ -42,6 +42,11 @@ Voici quelques ressources que je consulte régulièrement pour ma veille et mon 
 | [Stack Overflow](https://stackoverflow.com/) | ❓ Q&A | Plateforme d’entraide pour trouver et partager des solutions techniques |
 | [GitHub Trending](https://github.com/trending) | 💻 Code | Découverte des projets open source les plus populaires du moment |
 
+...
+
+## 3. Opportunités professionnelles
+
+Suivi des offres ou pistes de carrière.
 
 ...
 ##  Me contacter
