@@ -37,6 +37,6 @@ Ce portfolio regroupe mes projets réalisés dans le cadre du parcours OpenClass
 ##  Me contacter
 
  **Email** : bastienmaingaud@gmail.com   
- **GitHub** : github.com/bastien06150  
+ **GitHub** : https://github.com/
 
 ---
