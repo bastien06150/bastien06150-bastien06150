@@ -13,11 +13,11 @@ Ce portfolio regroupe mes projets réalisés dans le cadre du parcours OpenClass
 
 | Projet | Description | Technologies | Lien |
 |---------|--------------|---------------|------|
-| **Projet 7 – AlgoInvest & Trade** | Algorithme d’optimisation d’investissement à 500 € (force brute, glouton, DP). | Python, CSV, Pandas, Pptx | [Voir le repo](https://github.com/ton-profil/projet7-algorithme) |
-| **Projet 6 – Analyse immobilière** | Exploration et visualisation de données sur les prix du logement. | Python, Pandas, Matplotlib | [Voir le repo](https://github.com/ton-profil/projet6-immobilier) |
-| **Projet 5 – Classification clients** | Segmentation marketing via clustering K-Means et PCA. | Scikit-learn, Pandas, Seaborn | [Voir le repo](https://github.com/ton-profil/projet5-clients) |
-| **Projet 4 – Tableau de bord interactif** | Dashboard d’analyse avec Streamlit. | Streamlit, Plotly, Python | [Voir le repo](https://github.com/ton-profil/projet4-dashboard) |
-
+| **Projet 1 – Analyse de marché** | Développement d’un programme Python automatisé pour extraire les prix des livres d’occasion à partir du site *Books to Scrape*. | Python, Pandas, Matplotlib | [Voir le repo](https://github.com/bastien06150/books-To-Scrape) |
+| **Projet 2 – AlgoInvest & Trade** | Algorithme d’optimisation d’investissement avec 500 € (force brute, glouton, DP). | Python, CSV, Pandas, Pptx | [Voir le repo](https://github.com/bastien06150/projet_echec) |
+| **Projet 3 – Classification clients** | Segmentation marketing via clustering K-Means et PCA. | Scikit-learn, Pandas, Seaborn | [Voir le repo](https://github.com/bastien06150/projet-justStreamIt) |
+| **Projet 4 – Tableau de bord interactif** | Dashboard d’analyse avec Streamlit. | Streamlit, Plotly, Python | [Voir le repo](https://github.com/bastien06150/HomeSkolar-) |
+| **Projet 5 – AlgoInvest & Trade** | Algorithme d’optimisation d’investissement avec 500 € (force brute, glouton, DP). | Python, CSV, Pandas, Pptx | [Voir le repo](https://github.com/bastien06150/algorithme-en-python) |
 ---
 
 ##  Compétences techniques
