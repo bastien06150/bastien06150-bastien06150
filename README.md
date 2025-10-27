@@ -1,5 +1,3 @@
-# bastien06150-bastien06150
-
 #  Bonjour, je suis Maingaud Bastien !
 
  Développeur Python passionné par les algorithmes, la data et la finance.
