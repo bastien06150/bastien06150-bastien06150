@@ -27,6 +27,7 @@ Ce portfolio regroupe mes projets réalisés dans le cadre du parcours OpenClass
   - Analyse et visualisation de données
   - Machine Learning supervisé et non supervisé
   - Automatisation de scripts
+  - scraping
 
     
 ---
