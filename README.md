@@ -38,11 +38,11 @@ Voici quelques ressources que je consulte régulièrement pour ma veille et mon 
 
 | **Ressource** | **Type** | **Description** |
 |----------------|-----------|-----------------|
-| [Dev.to](https://dev.to) | 📝 Blog communautaire | Articles quotidiens écrits par et pour les développeurs |
-| [Reddit – r/Python](https://www.reddit.com/r/Python/) | 💬 Forum | Discussions, conseils et veille autour de Python |
-| [Stack Overflow](https://stackoverflow.com/) | ❓ Q&A | Plateforme d’entraide pour trouver et partager des solutions techniques |
-| [GitHub Trending](https://github.com/trending) | 💻 Code | Découverte des projets open source les plus populaires du moment |
-| [CodeInGame](https://www.codingame.com/) | 💻 Code | exercice de code pour s'ameliorer |
+| [Dev.to](https://dev.to) |  Blog communautaire | Articles quotidiens écrits par et pour les développeurs |
+| [Reddit – r/Python](https://www.reddit.com/r/Python/) |  Forum | Discussions, conseils et veille autour de Python |
+| [Stack Overflow](https://stackoverflow.com/) |  Q&A | Plateforme d’entraide pour trouver et partager des solutions techniques |
+| [GitHub Trending](https://github.com/trending) |  Code | Découverte des projets open source les plus populaires du moment |
+| [CodeInGame](https://www.codingame.com/) |  Code | exercice de code pour s'ameliorer |
 
 
 ---
